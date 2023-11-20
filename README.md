@@ -1,4 +1,4 @@
-# Red-wine-quality-classification
+# Red Wine Quality Classification
 
 **CSC1000 Team Project 2020**
 

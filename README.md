@@ -1,6 +1,6 @@
 # Red-wine-quality-classification
 
-**CSC1000 Team Project 2020 CUHK-SZ**
+## **CSC1000 Team Project 2020 CUHK-SZ**
 
 Implementing Classification and Regression Tree (CART) without using libraries, except for NumPy and Pandas.
 
